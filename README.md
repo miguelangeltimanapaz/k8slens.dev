@@ -18,8 +18,8 @@ This project help you to compile the binaries of project https://github.com/lens
   module Cannot find module '../build/Release/sharp-win32-x64.node'
   
   Execute:
-  #>npm cache clear
-  #>npm rebuild --verbose sharp
+  #>npm cache clear  
+  #>npm rebuild --verbose sharp  
 
 # Linux:
 
