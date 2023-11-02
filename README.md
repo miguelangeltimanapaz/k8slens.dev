@@ -17,7 +17,7 @@ This project help you to compile the binaries of project https://github.com/lens
   Something went wrong installing the "sharp" 
   module Cannot find module '../build/Release/sharp-win32-x64.node'
   
-  Execute:
+  Execute:  
   #>npm cache clear  
   #>npm rebuild --verbose sharp  
 
