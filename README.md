@@ -4,9 +4,9 @@ This project help you to compile the binaries of project https://github.com/lens
 # Windows:
 
 # Requirements
-* Install node v16.20.2 [primary goals](https://nodejs.org/dist/v16.20.2/node-v16.20.2-x64.msi)
+* Install node [v16.20.2](https://nodejs.org/dist/v16.20.2/node-v16.20.2-x64.msi)
 * execute command: #>npm install -g npm@9.6.7
-* Install python-3.6.8-amd64.exe [primary goals](https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe)
+* Install [python-3.6.8-amd64.exe](https://www.python.org/ftp/python/3.6.8/python-3.6.8-amd64.exe)
 * Install Visual Studio 2017 Community (using the "Desktop development with C++" workload), for more detail https://github.com/Microsoft/nodejs-guidelines/blob/master/windows-environment.md#compiling-native-addon-modules
 
 # Steps
@@ -22,12 +22,10 @@ This project help you to compile the binaries of project https://github.com/lens
 # Linux:
 
 # Requirements
-* #>npm install 
-* #>npm run build:app
-
-# Steps
 * Install node v16.20.2 
 * execute command: #>npm install -g npm@9.6.7
+
+# Steps
 * execute command: #>npm install 
 * execute command: #>npm run build:app
 
